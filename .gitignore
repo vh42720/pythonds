@@ -1,0 +1,11 @@
+/venv/
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/pythonds.iml
+/chapter_1/text.py
+/.idea/vcs.xml
+/test/
