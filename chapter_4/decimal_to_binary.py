@@ -18,6 +18,7 @@ def toBinary(decNum, base):
 
 
 def main():
+	print(toBinary(25, 2))
 	print(toBinary(25, 8))
 	print(toBinary(256, 16))
 	print(toBinary(26, 26))
